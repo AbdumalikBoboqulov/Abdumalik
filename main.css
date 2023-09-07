@@ -47,16 +47,11 @@
   margin-top: 190px;
 }
 
-header {
-  width: 1430px;
-  margin: 0 auto;
+.hero {
   background-image: url(../img/header.png);
   background-repeat: no-repeat;
   background-position-x: right;
   background-position-y: bottom;
-}
-
-.hero {
   background-size: 80%;
   width: 100%;
   /*   .hero_right {
