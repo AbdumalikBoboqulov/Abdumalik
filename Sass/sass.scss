@@ -53,13 +53,15 @@
 .top {
   margin-top: 190px;
 }
-.Big {
-}
-.hero {
+header {
+  width: 1430px;
+  margin: 0 auto;
   background-image: url(../img/header.png);
   background-repeat: no-repeat;
   background-position-x: right;
   background-position-y: bottom;
+}
+.hero {
   background-size: 80%;
   width: 100%;
 
